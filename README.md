@@ -7,15 +7,16 @@
 ### Hi there 👋 I am André Filho
 
 - 🏙️  Based in Lauro de Freitas - BA, Brazil
-- 🔭 I’m currently working as Software Developer in [Nexo Jornal](https://www.nexojornal.com.br/)
+- 🔭 I’m currently working as Software Developer in [Group 3778](https://www.3778.care/)
 - 🌱 I’m currently learning functional programming and web development
 - 🎓 Graduated in Computer Science at Universidade de Salvador (UNIFACS)
+- 🎓 Master's in Computer Science at the State University of Feira de Santana (UEFS)
 - 👯 I'm looking to collaborate on functional projects
 - 📫 How to reach me: decoesp@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love playing sports and games and watching anime
 - Languages: Brazilian Portuguese and Intermediate English
-- Currently participating in the [Funcional@ssa](https://github.com/funcional-ssa/) community
+- Currently participating in the [Funcional@ssa](https://github.com/funcional-ssa/) community and also in the [MTST Technology Core](https://github.com/tecMTST)
 
 <!--
 **decoesp/decoesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
