@@ -7,7 +7,7 @@
 ### Hi there 👋 I am André Filho
 
 - 🏙️  Based in Lauro de Freitas - BA, Brazil
-- 🔭 I’m currently working as Software Developer in [Group 3778](https://www.3778.care/)
+- 🔭 Looking for a job
 - 🌱 I’m currently learning functional programming and web development
 - 🎓 Graduated in Computer Science at Universidade de Salvador (UNIFACS)
 - 🎓 Master's in Computer Science at the State University of Feira de Santana (UEFS)
