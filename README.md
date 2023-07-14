@@ -7,7 +7,7 @@
 ### Hi there 👋 I am André Filho
 
 - 🏙️  Based in Lauro de Freitas - BA, Brazil
-- 🔭 Looking for a job
+- 🔭 Senior Front End Developer at Datum
 - 🌱 I’m currently learning functional programming and web development
 - 🎓 Graduated in Computer Science at Universidade de Salvador (UNIFACS)
 - 🎓 Master's in Computer Science at the State University of Feira de Santana (UEFS)
