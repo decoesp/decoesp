@@ -6,7 +6,7 @@
 
 ### Hi there 👋 I am André Filho
 
-- 🏙️  Based in Lauro de Freitas - BA, Brazil
+- 🏙️  Based in Salvador - BA, Brazil
 - 🔭 Front End Developer
 - 🌱 I’m currently learning functional programming and web development
 - 🎓 Graduated in Computer Science at Universidade de Salvador (UNIFACS)
